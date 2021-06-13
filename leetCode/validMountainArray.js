@@ -25,3 +25,4 @@ function validMountain(mountainsArr) {
 }
 
 console.log(validMountain([0, 2, 3, 4, 5, 2, 1]))
+console.log(validMountain([5, 2, 3, 4, 5, 2, 1]))
